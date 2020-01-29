@@ -2,4 +2,4 @@ Welcome! I am a third year PhD candidate in Organizational Behavior & Theory at 
 
 Prior to starting my PhD, I received my BBA and Master's degrees from Seoul National University in Korea. In my free time, I enjoy boxing, trekking, listening to music, and cheering for the Pittsburgh Penguins.
 
-[Research](./another-page.html).
+[Research](./another-page.md).
