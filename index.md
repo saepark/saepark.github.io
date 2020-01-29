@@ -3,12 +3,3 @@ Welcome! I am a third year PhD candidate in Organizational Behavior & Theory at 
 Prior to starting my PhD, I received my BBA and Master's degrees from Seoul National University in Korea. In my free time, I enjoy boxing, trekking, listening to music, and cheering for the Pittsburgh Penguins.
 
 ### Research Interests
-
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
