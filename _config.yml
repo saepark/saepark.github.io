@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+gem "github-pages", group: :jekyll_plugins
+
+title: Sae-Seul Park
+description: Ph.D. Candidate at Carnegie Mellon University
