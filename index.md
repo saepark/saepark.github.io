@@ -4,4 +4,4 @@ Broadly, I explore how the interplay of pecuniary and social incentives, market 
 
 Prior to starting my PhD, I received my BBA and Master's degrees from Seoul National University in Korea. In my free time, I enjoy boxing, trekking, listening to music, and cheering for the Pittsburgh Penguins.
 
-[Research](./research.html) | [Teaching](./teaching.html) | [CV](./docs/CV Sae Park Jan 2020.pdf)
+[Research](./research.html) | [Teaching](./teaching.html) | [CV]
