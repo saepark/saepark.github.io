@@ -20,6 +20,3 @@ Park, S.S. Biting the Hand That Feeds? How Organizational Training Influences Em
 
 Hahl, O., Park, S.S., & Aven, B. Out of My League: Why (and When) Low-Status Audiences Reject High-Status Offerings. Data collection in progress.
 
-
-
-[back](./)
