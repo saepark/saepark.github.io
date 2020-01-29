@@ -4,7 +4,7 @@ layout: default
 
 ## Research
 
-Working Papers
+**Working Papers**
 
 *Hahl, O., *Park, S.S., & Lee, S. [title blinded for peer review] Under review.
 
@@ -12,7 +12,7 @@ Park, S.S. Tournament Incentives and Knowledge Sharing: The Effect of Intra-Orga
 
 
 
-Research in Progress
+**Research in Progress**
 
 Park, S.S. Biting the Hand That Feeds? How Organizational Training Influences Employees' Productivity and Labor Market Mobility. Field experiment in progress. (Dissertation Chapter)
 
