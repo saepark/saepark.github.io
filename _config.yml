@@ -2,3 +2,5 @@ title: Sae-Seul Park
 logo: 
 description: Ph.D. Candidate at Carnegie Mellon University
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
