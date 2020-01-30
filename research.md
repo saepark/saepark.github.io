@@ -25,5 +25,3 @@ Biting the Hand That Feeds? How Organizational Training Influences Employees' Pr
 What Do Scandals Do? Regulatory Restatements in Response to Industry Shocks (w/ Oliver Hahl). _Data analysis in progress._
 
 Out of My League: Why (and When) Low-Status Audiences Reject High-Status Offerings (w/ Oliver Hahl & Brandy Aven). _Data collection in progress._
-
-*denotes equal authorship
