@@ -10,7 +10,7 @@ Committee Members: Oliver Hahl (chair), Linda Argote, Dennis Epple, Sunkee Lee
 
 **Working Papers**
 
-[title blinded for peer review] _Under review._
+[title blinded for peer review] (w/ Oliver Hahl & Sunkee Lee) _Under review._
 
 Tournament Incentives and Knowledge Sharing: The Effect of Intra-Organizational Competition on Organizational Learning. (Dissertation Chapter)
 
