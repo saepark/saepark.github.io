@@ -16,6 +16,8 @@ Oliver Hahl (chair), Linda Argote, Dennis Epple, Sunkee Lee
 
 * Tournament Incentives and Knowledge Sharing: The Effect of Intra-Organizational Competition on Organizational Learning. (Dissertation Chapter)
 
+* The Effect of Corporate Governance on Firm Performance Amidst Trade Liberalization: Evidence from the Korea-U.S. FTA.
+
 **Research in Progress**
 
 * Biting the Hand That Feeds? How Organizational Training Influences Employees' Productivity and Labor Market Mobility. _Field experiment in progress._ (Dissertation Chapter)
