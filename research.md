@@ -4,7 +4,7 @@ layout: default
 
 ## Research
 
-Dissertation Title: Essays on Organizational Performance
+Dissertation Title: Essays on Organizational Performance (Proposal Date: February 14, 2020)
 
 Committee Members: Oliver Hahl (chair), Linda Argote, Dennis Epple, Sunkee Lee
 
