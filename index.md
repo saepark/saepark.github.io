@@ -4,6 +4,6 @@ Broadly, I explore how the interplay of pecuniary and social incentives, market 
 
 Prior to starting my PhD, I received my BBA and Master's degrees from Seoul National University in Korea. In my free time, I enjoy boxing, trekking, listening to music, and cheering for the Pittsburgh Penguins.
 
-Please use the links below to see more about my research, my teaching-related experiences, and my software codes.
+Please use the links below to see more about my research, my teaching experiences, and my software codes.
 
 [Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html)
