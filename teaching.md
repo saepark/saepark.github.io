@@ -9,7 +9,7 @@ layout: default
 * Seminar in Organizational Theory (PhD; Prof. Oliver Hahl)
 * Corporate Strategy (MBA; Prof. Oliver Hahl)
 * Statistical Decision Making (MBA; Prof. Dennis Epple)
-* Organizational Design and Implementation (MS; Prof. David Krackhardt)
+* Organizational Design and Implementation (M.Sc.; Prof. David Krackhardt)
 * Managing Organizations and Networks (MBA; Prof. Brandy Aven)
 
 **Teaching Assistant (Seoul National University)**
