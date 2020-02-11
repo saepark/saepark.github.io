@@ -23,7 +23,7 @@ layout: default
 ### **Dissertation**
 
 Essays on Human Capital and Organizational Performance
-# Proposal date: February 14, 2020
+#### Proposal date: February 14, 2020
 
 Committee Members: 
 - Oliver Hahl (chair), Linda Argote, Dennis Epple, Sunkee Lee
