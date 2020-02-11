@@ -10,13 +10,13 @@ Dissertation Title: Essays on Human Capital and Organizational Performance
 Committee Members: 
 Oliver Hahl (chair), Linda Argote, Dennis Epple, Sunkee Lee
 
-**Working Papers**
+**Manuscripts Under Review and Working Papers**
 
 * [title blinded for peer review] (w/ Oliver Hahl & Sunkee Lee) _Under review._
 
-* Tournament Incentives and Knowledge Sharing: The Effect of Intra-Organizational Competition on Organizational Learning. (Dissertation Chapter)
+* Tournament Incentives and Knowledge Sharing: The Effect of Intra-Organizational Competition on Organizational Learning. _Working paper._ (Dissertation Chapter)
 
-* The Effect of Corporate Governance on Firm Performance Amidst Trade Liberalization: Evidence from the Korea-U.S. FTA.
+* The Effect of Corporate Governance on Firm Performance Amidst Trade Liberalization: Evidence from the Korea-U.S. FTA. _Working paper._
 
 **Research in Progress**
 
