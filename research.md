@@ -4,8 +4,7 @@ layout: default
 
 ## Research
 
-Dissertation Title: 
-- Essays on Human Capital and Organizational Performance 
+Dissertation Title: Essays on Human Capital and Organizational Performance 
 - (Proposal Date: February 14, 2020)
 
 Committee Members: 
