@@ -2,7 +2,7 @@ Welcome! I am a third year PhD candidate in Organizational Behavior & Theory at 
 
 Broadly, I explore how the interplay of pecuniary and social incentives, market shifts, and risk salience ultimately shape agents' performance and behavioral outcomes. My current research examines these themes in the context of third-party regulation and information systems usage in organizations. I am currently working with firms in Southeast Asia to utilize proprietary archival data and run field experiments for my work.
 
-Prior to starting my PhD, I received my BBA and Master's degrees from Seoul National University in Korea. In my free time, I enjoy boxing, trekking, listening to music, and cheering for the Pittsburgh Penguins.
+Prior to starting my PhD, I received my BBA and Master's degrees from Seoul National University in Korea. In my free time, I enjoy boxing, mountaineering, listening to music, and cheering for the Pittsburgh Penguins.
 
 Please use the links below to see more about my research, my teaching experiences, and my software codes.
 
