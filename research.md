@@ -4,7 +4,7 @@ layout: default
 
 ## Research
 
-**Manuscripts Under Review and Working Papers**
+### **Manuscripts Under Review and Working Papers**
 
 * [title blinded for peer review] (w/ Oliver Hahl & Sunkee Lee) _Under review._
 
@@ -12,7 +12,7 @@ layout: default
 
 * The Effect of Corporate Governance on Firm Performance Amidst Trade Liberalization: Evidence from the Korea-U.S. FTA. _Working paper._
 
-**Research in Progress**
+### **Research in Progress**
 
 * Biting the Hand That Feeds? How Organizational Training Influences Employees' Productivity and Labor Market Mobility. _Field experiment in progress._ (Dissertation Chapter)
 
@@ -20,7 +20,7 @@ layout: default
 
 * Out of My League: Why (and When) Low-Status Audiences Reject High-Status Offerings (w/ Oliver Hahl & Brandy Aven). _Data collection in progress._
 
-**Dissertation**
+### **Dissertation**
 
 Dissertation Title: Essays on Human Capital and Organizational Performance 
 - (Proposal Date: February 14, 2020)
