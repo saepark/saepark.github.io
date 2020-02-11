@@ -22,7 +22,7 @@ layout: default
 
 ### **Dissertation**
 
-[#### Essays on Human Capital and Organizational Performance](https://www.cmu.edu/tepper/programs/phd/program/assets/proposal-abstracts/2020-organizational-behavior-and-theory-park-sae-seul-proposal-abstract.pdf)
+[Essays on Human Capital and Organizational Performance](https://www.cmu.edu/tepper/programs/phd/program/assets/proposal-abstracts/2020-organizational-behavior-and-theory-park-sae-seul-proposal-abstract.pdf)
 Proposal Date: February 14, 2020
 
 Committee Members: 
