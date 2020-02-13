@@ -4,6 +4,16 @@ layout: default
 
 ## Research
 
+### **Dissertation**
+
+[Essays on Human Capital and Organizational Performance](https://www.cmu.edu/tepper/programs/phd/program/assets/proposal-abstracts/2020-organizational-behavior-and-theory-park-sae-seul-proposal-abstract.pdf)
+(Proposal Date: February 14, 2020)
+
+Committee Members: 
+- Oliver Hahl (chair), Linda Argote, Dennis Epple, Sunkee Lee
+
+[Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html)
+
 ### **Manuscripts Under Review and Working Papers**
 
 * [title blinded for peer review] (w/ Oliver Hahl & Sunkee Lee) _Under review._
@@ -20,12 +30,3 @@ layout: default
 
 * Out of My League: Why (and When) Low-Status Audiences Reject High-Status Offerings (w/ Oliver Hahl & Brandy Aven). _Data collection in progress._
 
-### **Dissertation**
-
-[Essays on Human Capital and Organizational Performance](https://www.cmu.edu/tepper/programs/phd/program/assets/proposal-abstracts/2020-organizational-behavior-and-theory-park-sae-seul-proposal-abstract.pdf)
-(Proposal Date: February 14, 2020)
-
-Committee Members: 
-- Oliver Hahl (chair), Linda Argote, Dennis Epple, Sunkee Lee
-
-[Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html)
