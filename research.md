@@ -12,8 +12,6 @@ layout: default
 Committee Members: 
 - Oliver Hahl (chair), Linda Argote, Dennis Epple, Sunkee Lee
 
-[Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html)
-
 ### **Manuscripts Under Review and Working Papers**
 
 * [title blinded for peer review] (w/ Oliver Hahl & Sunkee Lee) _Under review._
@@ -30,3 +28,4 @@ Committee Members:
 
 * Out of My League: Why (and When) Low-Status Audiences Reject High-Status Offerings (w/ Oliver Hahl & Brandy Aven). _Data collection in progress._
 
+[Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html)
