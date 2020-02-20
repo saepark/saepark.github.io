@@ -1,4 +1,4 @@
-![Sae-Seul Park](https://saepark.github.io/assets/img/sae-seul-park.jpg)
+![Sae-Seul Park](https://saepark.github.io/assets/img/sae-seul-park.jpg){: .align-left}
 
 Welcome! I am a third-year PhD candidate in Organizational Behavior & Theory at Carnegie Mellon University's Tepper School of Business. I am interested in organizational economics, organizational learning and knowledge management, and behavioral strategy. 
 
