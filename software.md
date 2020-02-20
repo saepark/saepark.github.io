@@ -8,6 +8,6 @@ In my research, I primarily use Stata. I occasionally supplement my analysis usi
 
 This space is a respository for me to share my codes for various software.
 
-COMING SOON
+_COMING SOON_
 
 [Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html)
