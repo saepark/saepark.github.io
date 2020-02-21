@@ -6,6 +6,10 @@ url: "http://sae-park.com"
 twitter: 
   username: sspark0790
 google_analytics: UA-158269014-1
+  webmaster_verifications:
+    google: 987654321
+    bing: 987654321
+    alexa: 987654321
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
