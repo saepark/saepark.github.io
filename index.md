@@ -1,3 +1,5 @@
+<img align="left" src="assets/sae-seulpark.jpg">
+
 Welcome! I am a third-year PhD candidate in Organizational Behavior & Theory at Carnegie Mellon University's Tepper School of Business. I am mainly interested in organizational economics, organizational learning and knowledge management, and behavioral strategy. 
 
 Broadly, I explore how the interplay of pecuniary and social incentives and market shifts shape agents' performance and knowledge-related outcomes. My current research examines these themes in the contexts of third-party regulation, information systems use in organizations, and labor markets in developing economies.
