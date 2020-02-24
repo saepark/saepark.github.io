@@ -1,4 +1,4 @@
-<img align="left" src="assets/sae-seulpark.jpg">
+<img align="left" src="assets/sae-seulpark2.jpg">
 
 Welcome! I am a third-year PhD candidate in Organizational Behavior & Theory at Carnegie Mellon University's Tepper School of Business. I am mainly interested in organizational economics, organizational learning and knowledge management, and behavioral strategy. 
 
