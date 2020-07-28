@@ -8,7 +8,7 @@ layout: default
 
 * [title blinded for peer review] (w/ Oliver Hahl & Sunkee Lee) _Under review._
 
-* The Effect of Zero-Sum Intraorganizational Competition on Knowledge Sharing: Evidence from Repository KMS Transaction Logs. _Working paper._ 
+* The Effect of Zero-Sum Intraorganizational Competition on Knowledge Sharing: Evidence from Repository KMS Transaction Logs. _Working paper._ (available upon request) 
 
 ### **Research in Progress**
 
