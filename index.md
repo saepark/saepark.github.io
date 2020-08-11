@@ -4,6 +4,6 @@ Broadly, I explore how the interplay of pecuniary and social incentives and mark
 
 Prior to starting my PhD, I received my BBA and my MA in international economics from Seoul National University in Korea. In my free time, I enjoy boxing, mountaineering, attending concerts, and cheering for the Pittsburgh Penguins.
 
-Please use the links below to see more about my research, my teaching experiences, my CV, and my software codes.
+Please use the links below to see more about my research, my teaching experiences, my software codes, and my CV.
 
-[Research](./research.html) | [Teaching](./teaching.html) | [CV](./CV.html) | [Software](./software.html)
+[Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html) | [CV](./CV.html)  
