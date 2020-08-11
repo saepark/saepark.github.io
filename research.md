@@ -20,4 +20,4 @@ layout: default
 
 * What Do Scandals Do? Symbolic vs. Substantive Change in Regulatory Restatements in Response to Industry Shocks. (w/ Oliver Hahl). _Data analysis in progress._
 
-[Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html)
+[Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html) | [CV](./CV.html)  
