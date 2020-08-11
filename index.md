@@ -6,4 +6,4 @@ Prior to starting my PhD, I received my BBA and my MA in international economics
 
 Please use the links below to see more about my research, my teaching experiences, my CV, and my software codes.
 
-[Research](./research.html) | [Teaching](./teaching.html) | [CV] (./CV.html) | [Software](./software.html)
+[Research](./research.html) | [Teaching](./teaching.html) | [CV](./CV_Sae Park_Updated Aug 2020.pdf) | [Software](./software.html)
