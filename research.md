@@ -12,16 +12,12 @@ layout: default
 
 ### **Research in Progress**
 
-* Can Professional Identification Curb Regulatory Bias? Evidence from Microdata. (w/ Oliver Hahl & Sunkee Lee) _Data analysis in progress._
+* Individual Incentives, Network Closure, and Breadth and Depth of Knowledge Flows: Evidence from Repository KMS Transaction Logs _Manuscript writing in progress._
 
-* Tradeoffs Between Knowledge Sharing and Individual Learning in Organizations: Evidence from Repository KMS Transaction Logs. _Data analysis in progress._
-
-* Informal Knowledge Sharing and Individual Performance Outcomes. _Data collection in progress._
+* The Knowledge Sharing-Individual Learning Trade-Off: Evidence from Repository KMS Transaction Logs. _Data analysis in progress._
 
 * Biting the Hand That Feeds? How Organizational Training Influences Employees’ Productivity and Labor Market Mobility in a Developing Country. _Field experiment in progress._
 
 * What Do Scandals Do? Symbolic vs. Substantive Change in Regulatory Restatements in Response to Industry Shocks. (w/ Oliver Hahl). _Data analysis in progress._
-
-* Out of My League: Why (and When) Low-Status Audiences Reject High-Status Offerings (w/ Oliver Hahl & Brandy Aven). _Data collection in progress._
 
 [Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html)
