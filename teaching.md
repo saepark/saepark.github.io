@@ -18,4 +18,4 @@ layout: default
 * Seminar in International Finance I (Master's)
 * International Business (Undergraduate)
 
-[Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html)
+[Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html) | [CV](./CV.html)  
