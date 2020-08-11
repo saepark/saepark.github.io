@@ -10,4 +10,4 @@ This space is a respository for me to share my codes for various software.
 
 _COMING SOON_
 
-[Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html)
+[Research](./research.html) | [Teaching](./teaching.html) | [Software](./software.html) | [CV](./CV.html)
