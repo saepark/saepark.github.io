@@ -4,6 +4,10 @@ layout: default
 
 ## Teaching
 
+**Instructor (Carnegie Mellon University)**
+
+* Negotiation and Conflict Resolution (undergraduate, Spring 2021)
+
 **Teaching Assistant (Carnegie Mellon University)**
 
 * Seminar in Organizational Theory (PhD; Prof. Oliver Hahl)
