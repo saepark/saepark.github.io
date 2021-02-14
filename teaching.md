@@ -4,9 +4,13 @@ layout: default
 
 ## Teaching
 
-**Instructor (Carnegie Mellon University)**
+**Instructor**
 
 * Negotiation and Conflict Resolution (Undergraduate, Spring 2021)
+
+**Guest Lecturer**
+
+* Organizational Behavior (Undergraduate, Summer 2019)
 
 **Teaching Assistant (Carnegie Mellon University)**
 
