@@ -8,7 +8,7 @@ layout: default
 
 * Knowledge Transfer within Organizations (w/ Linda Argote, Jerry Guo & Oliver Hahl). _Preparing for submission._
 
-* How Performance Incentives Impact Flows, Content, and Utilization of Shared Knowledge. _Manuscript writing in progress._
+* How Performance Incentives Impact Flows, Content, and Utilization of Shared Knowledge: Evidence from Digital Trace Data on Firm KMS. _Manuscript writing in progress._
 
 * The Knowledge Sharing-Individual Learning Trade-Off. _Data analysis._
 
