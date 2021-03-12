@@ -6,9 +6,9 @@ layout: default
 
 * [title blinded for peer review] (w/ Oliver Hahl & Sunkee Lee) _Under review._
 
-* Individual Incentives, Network Closure, and Breadth and Depth of Knowledge Flows: Evidence from Repository KMS Transaction Logs _Preparing for submission._
-
 * Knowledge Transfer within Organizations (w/ Linda Argote, Jerry Guo & Oliver Hahl). _Preparing for submission._
+
+* How Performance Incentives Impact Flows, Content, and Utilization of Shared Knowledge. _Manuscript writing in progress._
 
 * The Knowledge Sharing-Individual Learning Trade-Off. _Data analysis._
 
