@@ -6,7 +6,7 @@ layout: default
 
 **Instructor**
 
-* Negotiation and Conflict Resolution (UG, Spring 2021; currently in progress)
+* Negotiation and Conflict Resolution (UG, Spring 2021; full semester course, currently in progress)
 
 **Guest Lecturer**
 * Seminar in Organizational Theory (PhD, Fall 2019)
