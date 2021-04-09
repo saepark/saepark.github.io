@@ -8,9 +8,9 @@ layout: default
 
 * Knowledge Transfer within Organizations (w/ Linda Argote, Jerry Guo & Oliver Hahl). _Preparing for submission._
 
-* How Performance Incentives Impact Flows, Content, and Utilization of Shared Knowledge: Evidence from Digital Trace Data on Firm KMS. _Manuscript writing in progress._
+* How Performance Incentives Impact Networks, Content, and Utilization of Shared Knowledge: Evidence from Digital Trace Data on Firm KMS. _Manuscript writing in progress._
 
-* The Knowledge Sharing-Individual Learning Trade-Off. _Data analysis._
+* The Knowledge Sharing-Individual Learning Trade-Off: Evidence from Digital Trace Data on Firm KMS. _Data analysis._
 
 * What Do Scandals Do? Symbolic vs. Substantive Change in Regulatory Restatements in Response to Industry Shocks. (w/ Oliver Hahl). _Data analysis._
 
