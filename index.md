@@ -2,7 +2,7 @@ Welcome! I am a PhD candidate in Organizational Behavior & Theory at Carnegie Me
 
 My research interests lie at the intersection of organizational theory, knowledge management, and human capital development. In my dissertation, I explore how the interplay of pecuniary and social incentives shapes networks of knowledge, focusing on the links between knowledge sourcing, the content and application of acquired knowledge, and performance. I examine these ideas in diverse contexts such as tech entrepreneurship, third-party regulation, and foreign labor migration. My research has been recognized with the Henry J. Gailliot Presidential Fellowship of Carnegie Mellon University.
 
-I am also interested in making metholodgical contributions by leveraging digital trace data (i.e., records of user activities on digital systems) to construct unobstrusive behavioral measures. I employ machine learning, econometrics, and network analysis to integrate these data with traditional archival data to explore my research ideas.
+I am also interested in making methodological contributions by leveraging digital trace data (i.e., records of user activities on digital systems) to construct unobstrusive behavioral measures. I employ machine learning, econometrics, and network analysis to integrate these data with traditional archival data to explore my research ideas.
 
 I received my BBA and my MA in international economics from Seoul National University in Korea. In my free time, I enjoy boxing, mountaineering, attending concerts, and cheering for the Pittsburgh Penguins.
 
