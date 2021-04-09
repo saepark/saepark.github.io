@@ -9,7 +9,6 @@ layout: default
 * Negotiation and Conflict Resolution (UG, Spring 2021)
 
 **Guest Lecturer**
-* FinTech (UG, Spring 2021)
 * Seminar in Organizational Theory (PhD, Fall 2019)
 * Organizational Behavior (UG, Summer 2019)
 
