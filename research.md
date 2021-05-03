@@ -6,7 +6,7 @@ layout: default
 
 * [title blinded for peer review] (w/ Oliver Hahl & Sunkee Lee) _Under review._
 
-* Knowledge Transfer within Organizations (w/ Linda Argote, Jerry Guo & Oliver Hahl). _Preparing for submission._
+* The Theoretical Lenses and Components of Knowledge Transfer (w/ Linda Argote, Jerry Guo & Oliver Hahl). _Preparing for submission._
 
 * How Performance Incentives Impact Networks, Content, and Utilization of Shared Knowledge: Evidence from Digital Trace Data on Firm KMS. _Manuscript writing in progress._
 
