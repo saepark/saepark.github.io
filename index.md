@@ -1,6 +1,6 @@
 Welcome! I am a PhD candidate in Organizational Behavior & Theory at Carnegie Mellon University's Tepper School of Business.
 
-My research interests lie at the intersection of organizational theory, knowledge management, and human capital development. Broadly, I explore how the interplay of pecuniary and social incentives shapes networks of knowledge and performance. My research has been recognized with an endowed Presidential Fellowship by Carnegie Mellon University, which awards excellence and impactful research across the entire university.
+My research interests lie at the intersection of organizational theory, knowledge management, and human capital development. Broadly, I explore how the interplay of pecuniary and social incentives shapes networks of knowledge and performance. My research has been recognized with the Carnegie Mellon University Presidential Fellowship, which awards excellence and impactful research across the entire university.
 
 I am also interested in making methodological contributions by leveraging digital trace data (i.e., records of user activities on digital systems) to construct unobstrusive behavioral measures. I employ machine learning, econometrics, and network analysis to integrate these data with traditional archival data to explore my research ideas.
 
