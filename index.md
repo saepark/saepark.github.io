@@ -1,8 +1,6 @@
 Welcome! I am a PhD candidate in Organizational Behavior & Theory at Carnegie Mellon University's Tepper School of Business.
 
-My research interests lie at the intersection of organizational theory, knowledge management, and human capital development. Broadly, I explore how the interplay of pecuniary and social incentives shapes networks and performance. My research has been recognized with the [Carnegie Mellon University Presidential Fellowship](https://www.cmu.edu/tepper/news/stories/2021/april/phd-fellowships-awarded.html), which is awarded to doctoral students across the entire university who have contributed an impactful body of work to their field of research.
-
-Carnegie Mellon University Presidential Fellowship, which awards excellence and impactful research across the entire university.
+My research interests lie at the intersection of organizational theory, knowledge management, and human capital development. Broadly, I explore how the interplay of pecuniary and social incentives shapes networks and performance. My research has been recognized with the [Carnegie Mellon University Presidential Fellowship](https://www.cmu.edu/tepper/news/stories/2021/april/phd-fellowships-awarded.html), which is awarded to doctoral students at the university who have contributed an impactful body of work to their field of research.
 
 I received my BBA and my MA in international economics from Seoul National University in Korea. In my free time, I enjoy boxing, mountaineering, attending concerts, and cheering for the Pittsburgh Penguins.
 
