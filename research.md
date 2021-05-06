@@ -4,9 +4,9 @@ layout: default
 
 ## Research
 
-* [title blinded for peer review] (w/ Oliver Hahl & Sunkee Lee) _Under review._
+* [title blinded for review] (w/ Oliver Hahl & Sunkee Lee) _Under review._
 
-* [title blinded for peer review] (w/ Linda Argote, Jerry Guo & Oliver Hahl). _Under review._
+* [title blinded for review] (w/ Linda Argote, Jerry Guo & Oliver Hahl). _Under review._
 
 * How Performance Incentives Impact Networks, Content, and Utilization of Shared Knowledge: Evidence from Digital Trace Data on Firm KMS. _Manuscript writing in progress._
 
