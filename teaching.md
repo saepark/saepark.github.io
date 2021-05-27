@@ -6,11 +6,11 @@ layout: default
 
 **Instructor**
 
-* Negotiation and Conflict Resolution (UG, Spring 2021; full semester course, currently in progress)
+* Negotiation and Conflict Resolution (UG; full semester course, enrollment: 32)
 
 **Guest Lecturer**
-* Seminar in Organizational Theory (PhD, Fall 2019)
-* Organizational Behavior (UG, Summer 2019)
+* Seminar in Organizational Theory (PhD)
+* Organizational Behavior (UG)
 
 **Teaching Assistant**
 
