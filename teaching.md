@@ -6,7 +6,8 @@ layout: default
 
 **Instructor**
 
-* Negotiation and Conflict Resolution (UG; full semester course, enrollment: 32)
+* Negotiation and Conflict Resolution
+   * Spring 2021 undergraduate course (full semester, enrollment: 32) 
 
 **Guest Lecturer**
 * Seminar in Organizational Theory (PhD)
