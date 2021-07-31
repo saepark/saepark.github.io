@@ -14,6 +14,6 @@ layout: default
 
 * What Do Scandals Do? Symbolic vs. Substantive Change in Regulatory Restatements in Response to Industry Shocks. (w/ Oliver Hahl). _Data Analysis._
 
-* Biting the Hand That Feeds? How Organizational Training Influences Employees’ Productivity and Labor Market Mobility in a Developing Country. _Field Experiment in Progress._
+* Biting the Hand That Feeds? How Organizational Training Influences Productivity and Labor Market Mobility in a Developing Country. _Field Experiment in Progress._
 
 [Home](./index.html) | [Research](./research.html) | [Teaching](./teaching.html) | [CV](./CV.html)  
