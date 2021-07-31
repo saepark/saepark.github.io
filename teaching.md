@@ -26,4 +26,4 @@ layout: default
 * Organizational Design and Implementation (MS)
 * Managing Across Cultures (UG)
 
-[Research](./research.html) | [Teaching](./teaching.html) | [CV](./CV.html)  
+[Home](./index.html) | [Research](./research.html) | [Teaching](./teaching.html) | [CV](./CV.html)   
