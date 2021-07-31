@@ -6,4 +6,4 @@ I explore my theoretical interests in diverse contexts, such as strategy and pol
 
 Prior to starting my PhD, I studied business and economics at Seoul National University and dabbled in edutech entrepreneurship. In my free time, I enjoy boxing, mountaineering, attending concerts, and cheering for the Pittsburgh Penguins.
 
-[Research](./research.html) | [Teaching](./teaching.html) | [CV](./CV.html)  
+[Home](./index.html) | [Research](./research.html) | [Teaching](./teaching.html) | [CV](./CV.html)  
