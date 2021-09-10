@@ -4,9 +4,9 @@ layout: default
 
 ## Research
 
-* [Title Blinded for Review] (w/ Oliver Hahl & Sunkee Lee).
+* How Individual Regulators Contribute to Regulatory Failure: Evidence from Microdata (w/ Oliver Hahl & Sunkee Lee). _Working Paper._
 
-* [Title Blinded for Review] (w/ Linda Argote, Jerry Guo & Oliver Hahl).
+* The Theoretical Lenses and & Components of Knowledge Transfer (w/ Linda Argote, Jerry Guo & Oliver Hahl). _Revise & Resubmit at Organization Science._
 
 * How Performance Incentives Impact Networks, Content, and Utilization of Shared Knowledge: Evidence from Digital Trace Data on Firm KMS. _Working Paper (Job Market Paper)._
 
