@@ -4,7 +4,7 @@ layout: default
 
 ## Research
 
-* The Theoretical Lenses and & Components of Knowledge Transfer (w/ Linda Argote, Jerry Guo & Oliver Hahl). _Forthcoming_ in _Organization Science._
+* The Theoretical Lenses and & Components of Knowledge Transfer (w/ Linda Argote, Jerry Guo & Oliver Hahl). Forthcoming in _Organization Science._
 
 * How Individual Regulators Contribute to Regulatory Failure: Evidence from Microdata (w/ Oliver Hahl & Sunkee Lee). _Working Paper._
 
