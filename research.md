@@ -4,9 +4,9 @@ layout: default
 
 ## Research
 
-* How Individual Regulators Contribute to Regulatory Failure: Evidence from Microdata (w/ Oliver Hahl & Sunkee Lee). _Working Paper._
+* The Theoretical Lenses and & Components of Knowledge Transfer (w/ Linda Argote, Jerry Guo & Oliver Hahl). _Forthcoming_ in _Organization Science._
 
-* The Theoretical Lenses and & Components of Knowledge Transfer (w/ Linda Argote, Jerry Guo & Oliver Hahl). _Revise & Resubmit at Organization Science._
+* How Individual Regulators Contribute to Regulatory Failure: Evidence from Microdata (w/ Oliver Hahl & Sunkee Lee). _Working Paper._
 
 * How Performance Incentives Impact Networks, Content, and Utilization of Shared Knowledge: Evidence from Digital Trace Data on Firm KMS. _Working Paper (Job Market Paper)._
 
