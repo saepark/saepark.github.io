@@ -8,7 +8,7 @@ layout: default
 * The Mechanisms and Components of Knowledge Transfer within Organizations. (w/ Linda Argote, Jerry Guo & Oliver Hahl). Forthcoming in _Organization Science._
 
 **Working Papers and Work in Progress**
-* How Performance Incentives Impact Networks, Content, and Utilization of Shared Knowledge: Evidence from Digital Trace Data on Firm KMS. _Working Paper (Job Market Paper.)_
+* How Performance Incentives Impact Networks, Content, and Utilization of Shared Knowledge: Evidence from Digital Trace Data. _Job Market Paper._
 
 * How Individual Regulators Contribute to Regulatory Failure: Evidence from Microdata (w/ Oliver Hahl & Sunkee Lee). _Under Review._
 
