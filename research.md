@@ -10,9 +10,9 @@ layout: default
 **Working Papers and Work in Progress**
 * How Performance Incentives Impact Networks, Content, and Utilization of Shared Knowledge: Evidence from Digital Trace Data on Firm KMS. _Working Paper (Job Market Paper.)_
 
-* How Individual Regulators Contribute to Regulatory Failure: Evidence from Microdata (w/ Oliver Hahl & Sunkee Lee). _Preparing for Submission._
+* How Individual Regulators Contribute to Regulatory Failure: Evidence from Microdata (w/ Oliver Hahl & Sunkee Lee). _Under Review._
 
-* Are Knowledge Sharing and Learning Tradeoffs? Linking Performance Incentives with Digital Information Systems Usage. _Manuscript Writing in Progress._
+* Are Knowledge Sharing and Learning Tradeoffs? Linking Performance Incentives with Digital Information Systems Usage. _Working Paper._
  
 * What Do Scandals Do? Symbolic vs. Substantive Change in Regulatory Restatements in Response to Industry Shocks. (w/ Oliver Hahl). _Data Analysis._
 
