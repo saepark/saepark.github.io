@@ -13,7 +13,7 @@ layout: default
   - Nominated for Best Conference Paper Prize at the _SMS Special Conference_ (2022)
 
 - How Individual Regulators Contribute to Regulatory Failure: Evidence from Microdata (w/ Oliver Hahl & Sunkee Lee). _Under Review._
-  - Nominated for Best Conference Paper Prize and Best Research Methods Prize Prize at the _SMS Annual Conference_ (2021)
+  - Nominated for Best Conference Paper Prize and Best Research Methods Prize at the _SMS Annual Conference_ (2021)
   
 - Are Knowledge Sharing and Learning Tradeoffs? Linking Performance Incentives with Digital Information Systems Usage. _Working Paper._
 
