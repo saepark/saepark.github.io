@@ -11,7 +11,7 @@ layout: default
 - How Performance Incentives Impact Networks, Content, and Utilization of Shared Knowledge: Evidence from Digital Trace Data. _Job Market Paper._
   - Nominated for Best Conference Paper Prize and Best PhD Paper Prize at the _SMS Annual Conference_ (2022)
 
-- How Individual Regulators Contribute to the (Under)Performance of Regulatory Firms: Evidence From the Maritime Sector Using Microdata
+- How Individual Regulators Contribute to the (Under)Performance of Regulatory Firms: Evidence from Microdata
 (w/ Oliver Hahl & Sunkee Lee). _Under Review._
   - Nominated for Best Conference Paper Prize and Best Research Methods Prize at the _SMS Annual Conference_ (2021)
   
