@@ -17,7 +17,7 @@ layout: default
   
 - Are Knowledge Sharing and Learning Tradeoffs? Linking Performance Incentives with Digital Information Systems Usage. _Working Paper._
 
-**Work in Progress**
+**Selected Work in Progress**
 - Learning Like a Pro:  Individual Learning Responses to Industry Shocks. (w/ Oliver Hahl). _Data Analysis._
  
 - Biting the Hand That Feeds? How Organizational Training Influences Productivity and Labor Market Mobility in a Developing Country. _Field Experiment in Progress._
