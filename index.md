@@ -2,7 +2,7 @@
 
 Welcome! I am a PhD candidate in Organizational Behavior & Theory at Carnegie Mellon University's Tepper School of Business. I am on the 2022-2023 academic job market.
 
-My research examines strategic human capital through the lens of knowledge management, with an emphasis on understanding how the interplay of pecuniary and social incentives shapes knowledge and learning processes that underlie outcomes at both the individual and the organizational levels. Empirically, I integrate digital trace data (i.e., records of activity on digital systems) with large-scale datasets and fieldwork by applying machine learning, transaction log analysis, social network analysis, and econometric methods.
+My research examines strategic human capital through the lens of knowledge management, with an emphasis on understanding how the interplay of incentives and social relationships shapes knowledge and learning processes that underlie outcomes at both the individual and the organizational levels. Empirically, I integrate digital trace data (i.e., records of activity on digital systems) with large-scale datasets and fieldwork by applying machine learning, transaction log analysis, social network analysis, and econometric methods.
 
 My research has been recognized with accolades such as the [Carnegie Mellon University Presidential Fellowship](https://www.cmu.edu/tepper/news/stories/2021/april/phd-fellowships-awarded.html) and the Gerald R. Salancik Doctoral Dissertation Fellowship Award.
 
