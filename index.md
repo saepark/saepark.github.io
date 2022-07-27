@@ -6,6 +6,6 @@ My research examines strategic human capital through the lens of knowledge manag
 
 My research has been recognized with accolades such as the [Carnegie Mellon University Presidential Fellowship](https://www.cmu.edu/tepper/news/stories/2021/april/phd-fellowships-awarded.html) and the Gerald R. Salancik Doctoral Dissertation Fellowship Award.
 
-Prior to starting my PhD, I studied business and economics at Seoul National University and dabbled in edutech entrepreneurship. In my free time, I enjoy boxing, mountaineering, attending concerts, and cheering for the Pittsburgh Penguins.
+Prior to starting my PhD, I studied business and economics at Seoul National University and dabbled in edutech entrepreneurship. In my free time, I enjoy boxing, mountaineering, attending concerts, and cheering for the Pittsburgh Penguins. I have a cat named [Waffles](WafflesPark.jpg).
 
 [Home](./index.html) | [Research](./research.html) | [Teaching](./teaching.html) | [CV](./CV.html)  
