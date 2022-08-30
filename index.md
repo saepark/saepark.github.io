@@ -8,4 +8,6 @@ My research has been recognized with accolades such as the [Carnegie Mellon Univ
 
 Prior to starting my PhD, I studied business and economics at Seoul National University and dabbled in edutech entrepreneurship. In my free time, I enjoy boxing, mountaineering, attending concerts, cheering for the Pittsburgh Penguins, and playing with my cat [Waffles](WafflesPark.jpg).
 
+[Twitter](https://www.twitter.com/sae_park_)
+
 [Home](./index.html) | [Research](./research.html) | [Teaching](./teaching.html) | [CV](./CV.html)  
