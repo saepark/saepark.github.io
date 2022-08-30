@@ -5,7 +5,7 @@ layout: default
 ## Research
 
 **Publications**
-- The Mechanisms and Components of Knowledge Transfer within Organizations. (w/ Linda Argote, Jerry Guo & Oliver Hahl). _Organization Science, 33_(3), 1232–1249.
+- The Mechanisms and Components of Knowledge Transfer within Organizations. (w/ Linda Argote, Jerry Guo & Oliver Hahl). (2022). _Organization Science, 33_(3), 1232–1249.
 
 **Working Papers**
 - How Performance Incentives Impact Networks, Content, and Utilization of Shared Knowledge: Evidence from Digital Trace Data. **_Job Market Paper._**
