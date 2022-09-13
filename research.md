@@ -4,7 +4,7 @@ layout: default
 
 ## Research
 
-**Publications**
+**Peer-Reviewed Publications**
 - The Mechanisms and Components of Knowledge Transfer within Organizations. (w/ Linda Argote, Jerry Guo & Oliver Hahl). (2022). _Organization Science, 33_(3), 1232–1249.
 
 **Working Papers**
