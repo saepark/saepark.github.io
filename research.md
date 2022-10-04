@@ -8,7 +8,7 @@ layout: default
 - The Mechanisms and Components of Knowledge Transfer within Organizations. (w/ Linda Argote, Jerry Guo & Oliver Hahl). (2022). _Organization Science, 33_(3), 1232–1249.
 
 - How Individual Regulators Contribute to the (Under)Performance of Regulatory Firms: Evidence from Microdata
-(w/ Oliver Hahl & Sunkee Lee). _Revise & Resubmit at Strategic Management Journal ._
+(w/ Oliver Hahl & Sunkee Lee). _Revise & Resubmit_ at _Strategic Management Journal ._
   - Nominated for Best Conference Paper Prize and Best Research Methods Prize at the _SMS Annual Conference_ (2021)
   
 **Working Papers**
