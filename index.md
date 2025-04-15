@@ -6,6 +6,6 @@ My research examines strategic human capital through the lens of knowledge manag
 
 I received my Ph.D. from the Tepper School of Business at Carnegie Mellon University and my M.S. and BBA degrees from Seoul National University. In my free time, I enjoy boxing, mountaineering, attending concerts, and cheering for the Pittsburgh Penguins.
 
-I usually go by Sae, which is pronounced as "say".
+To non-Korean speakers, I usually go by Sae (pronounced as "say".)
 
 [Home](./index.html) | [Research](./research.html) | [Teaching](./teaching.html) | [CV](./CV.html)  
