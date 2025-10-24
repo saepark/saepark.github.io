@@ -36,12 +36,12 @@ I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seou
 - Argote, L., Guo, J., Park, S-S., & Hahl, O. (2022). The Mechanisms and Components of Knowledge Transfer within Organizations. _Organization Science, 33_(3), 1232-1249. 
   
 **Working Papers**
-- Park, S-S. How Individual Incentives Reconfigure Informal Knowledge Sharing: Evidence from Digital Trace Data.
+- How Individual Incentives Reconfigure Informal Knowledge Sharing: Evidence from Digital Trace Data.
   - Finalist for Best Paper Award (Strategic Human Capital IG) and nominated for Best Conference Paper Prize and Best PhD Paper Prize at the _SMS Annual Conference_ (2022)
 
-- Park, S-S. Park, S-S. To Search or Satisfice: The Unintended Effects of Performance Incentives on Digital Knowledge Use.
+- To Search or Satisfice: The Unintended Effects of Performance Incentives on Digital Knowledge Use.
 
-- Hahl, O. & Park, S-S. Who Strives When It Matters? Individual Professionalism and Effort After Crisis.
+- Who Strives When It Matters? Individual Professionalism and Effort After Crisis. (with Oliver Hahl)
 
 ---
 
