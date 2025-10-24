@@ -43,7 +43,7 @@ I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seou
 
 - To Search or Satisfice: The Unintended Effects of Performance Incentives on Digital Knowledge Use.
 
-- Who Strives When It Matters? Individual Professionalism and Effort After Crisis. (with Oliver Hahl)
+- Who Strives When It Matters? Individual Professionalism and Effort After Crisis. (_with Oliver Hahl_)
 
 **Selected Work in Progress**
 - Incentives, Tenure, and the Dynamics of Information Search on Digital Systems
