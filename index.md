@@ -23,7 +23,9 @@ title: Sae-Seul Park
 
 ## About
 
-I am an Assistant Professor of Strategic Management at the Rotman School of Management. My research examines strategic human capital through the lens of knowledge management, with an emphasis on understanding how the interplay of incentives and social relationships shapes knowledge and learning processes that underlie outcomes at both the individual and the organizational levels. My work considers how individual-level human capital characteristics influence the drivers of performance by the collective human capital pool, focusing on the antecedents and consequences of intraorganizational knowledge transfer and human capital development.
+I am an Assistant Professor of Strategic Management at the Rotman School of Management. My research examines strategic human capital through the lens of knowledge management, with an emphasis on understanding how the interplay of incentives and social relationships shapes knowledge and learning processes that underlie outcomes at both the individual and the organizational levels. 
+
+My work considers how individual-level human capital characteristics influence the drivers of performance by the collective human capital pool, focusing on the antecedents and consequences of intraorganizational knowledge transfer and human capital development. I received my Ph.D. from Carnegie Mellon University, and I completed my BBA and MA at Seoul National University.
 
 To non-Korean speakers, I go by Sae (pronounced "say").
 
@@ -75,13 +77,3 @@ To non-Korean speakers, I go by Sae (pronounced "say").
 * Statistical Decision Making (MBA)
 * Organizational Design and Implementation (MS)
 * Managing Across Cultures (UG) -->
-
----
-
-## Education
-
-**PhD** | Carnegie Mellon University
-
-**MA** | Seoul National University
-
-**BBA** | Seoul National University
