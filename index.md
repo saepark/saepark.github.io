@@ -27,6 +27,8 @@ I am an Assistant Professor of Strategic Management at the Rotman School of Mana
 
 I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seoul National University. To non-Korean speakers, I go by Sae (pronounced "say").
 
+---
+
 ## Research
 
 **Peer-Reviewed Publications**
