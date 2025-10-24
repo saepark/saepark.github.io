@@ -80,14 +80,8 @@ To non-Korean speakers, I go by Sae (pronounced "say").
 
 ## Education
 
-**PhD** \
-Tepper School of Business, Carnegie Mellon University
+**PhD** | Carnegie Mellon University
 
-**MS** \
-Tepper School of Business, Carnegie Mellon University
+**MA** | Seoul National University
 
-**MA** \
-Seoul National University
-
-**BBA** \
-Seoul National University
+**BBA** | Seoul National University
