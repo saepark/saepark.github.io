@@ -27,51 +27,26 @@ I am an Assistant Professor of Strategic Management at the Rotman School of Mana
 
 I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seoul National University. To non-Korean speakers, I go by Sae (pronounced "say").
 
-<!-- --- -->
+## Research
 
-<!-- ## Research
-
-**Peer-Reviewed Publications and Papers Under Review**
-- How Individual Regulators Contribute to the (Under)Performance of Regulatory Firms: Evidence from Microdata
-(w/ Oliver Hahl & Sunkee Lee). _Revise & Resubmit_ at _Strategic Management Journal_.
+**Peer-Reviewed Publications**
+- Park, S-S., Lee, S. & Hahl, O. (2025). Mitigating Ingroup Bias in Regulatory Firms: The Role of Inspector Professionalism. _Strategic Management Journal, 46_(8): 1829-2048.
   - Nominated for Best Conference Paper Prize and Best Research Methods Prize at the _SMS Annual Conference_ (2021)
 
-- The Mechanisms and Components of Knowledge Transfer within Organizations. (w/ Linda Argote, Jerry Guo & Oliver Hahl). (2022). _Organization Science, 33_(3), 1232–1249.
-
+- Argote, L., Guo, J., Park, S-S., & Hahl, O. (2022). The Mechanisms and Components of Knowledge Transfer within Organizations. _Organization Science, 33_(3), 1232-1249. 
   
-**Works in Progress**
-- How Performance Incentives Impact Networks, Content, and Utilization of Shared Knowledge: Evidence from Digital Trace Data. **_Job Market Paper._**
+**Working Papers**
+- Park, S-S. How Individual Incentives Reconfigure Informal Knowledge Sharing: Evidence from Digital Trace Data.
   - Finalist for Best Paper Award (Strategic Human Capital IG) and nominated for Best Conference Paper Prize and Best PhD Paper Prize at the _SMS Annual Conference_ (2022)
 
-- Are Knowledge Sharing and Learning Tradeoffs? Linking Performance Incentives with Digital Information Systems Usage. _Working Paper._
+- Park, S-S. Park, S-S. To Search or Satisfice: The Unintended Effects of Performance Incentives on Digital Knowledge Use.
 
-- Efforting Like a Pro: How Individual Agents React to Industry Crises (w/ Oliver Hahl). _Working Paper._
-
-- Biting the Hand That Feeds? How Organizational Training Influences Productivity and Labor Market Mobility in a Developing Country. _Field Experiment in Progress._
-
+- Hahl, O. & Park, S-S. Who Strives When It Matters? Individual Professionalism and Effort After Crisis.
 
 ---
 
 ## Teaching
 
-**Instructor**
-
-* Negotiation and Conflict Resolution
-   * Spring 2021 full semester course (enrollment: 32) 
-   * Selected anonymous student remarks: 
-      * _Professor Park was not only extremely knowledgeable but also passionate about making sure that we got the most out of her class. I really appreciated the well-structured lessons and helpful feedback from her. Plus, Professor Park is very friendly and approachable!_
-      * _I had a lot of fun in this course, though the requirements were a bit demanding. The professor's energy was infectious. She kept us engaged even though things were online and it was a morning class._
-      * _Professor Park genuinely cares about students. She is willing to work with you and to listen to your ideas._
- 
-**Guest Lecturer**
-* Seminar in Organizational Theory (PhD)
-* Organizational Behavior (UG)
-
-**Teaching Assistant**
-
-* Seminar in Organizational Theory (PhD)
-* Corporate Strategy (MBA)
-* Managing Organizations and Networks (MBA)
-* Statistical Decision Making (MBA)
-* Organizational Design and Implementation (MS)
-* Managing Across Cultures (UG) -->
+**Univeristy of Toronto**
+- Rotman Commerce, RSM 392 (Strategic Management)
+  - Fall 2023, Fall 2024, Fall 2025
