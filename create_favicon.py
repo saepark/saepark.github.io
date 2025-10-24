@@ -47,8 +47,8 @@ try:
 except:
     font = ImageFont.load_default()
 
-# Draw "KM" text in white
-text = "KM"
+# Draw "SP" text in white
+text = "SP"
 # Get text bounding box to center it properly
 bbox = draw.textbbox((0, 0), text, font=font)
 text_width = bbox[2] - bbox[0]
