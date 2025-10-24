@@ -1,9 +1,5 @@
-title: Sae-Seul Park
-logo:
-description: Ph.D.
 theme: jekyll-theme-minimal
-url: "http://sae-park.com"
-google_analytics: UA-158269014-1
-plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+title: Kevin Mott
+description: Assistant Professor of Finance, Teaching Stream | Rotman School of Management, University of Toronto
+author: Kevin Mott
+email: kevin.mott@rotman.utoronto.ca
