@@ -51,6 +51,7 @@ I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seou
 - Park, S-S. Work Disruptions and the Dynamics of Intrafirm Knowledge Flows.
 
 _Equal contribution across all coauthored papers._
+
 ---
 
 ## Teaching
