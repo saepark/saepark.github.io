@@ -47,7 +47,7 @@ I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seou
 
 **Selected Work in Progress**
 - Park, S-S. Incentives, Tenure, and the Dynamics of Information Search on Digital Systems.
-- Park, S-S. Gender Effects on Knowledge Sourcing through Digital Tools vs. Social Channels.
+- Campbell, E.L. & Park, S-S. Gender Effects on Knowledge Sourcing through Digital Tools vs. Social Channels.
 - Park, S-S. Work Disruptions and the Dynamics of Intrafirm Knowledge Flows.
 
 _Equal contribution across all coauthored papers._
