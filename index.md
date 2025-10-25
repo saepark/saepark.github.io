@@ -50,8 +50,6 @@ I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seou
 - Gender Effects on Knowledge Sourcing through Digital Tools vs. Social Channels
 - Work Disruptions and the Dynamics of Intrafirm Knowledge Flows
 
-how work disruptions from the pandemic affect intra-organizational knowledge flows and performance outcomes by using digital trace data to track the evolution of knowledge networks over time.
-
 ---
 
 ## Teaching
