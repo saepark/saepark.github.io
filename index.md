@@ -41,7 +41,7 @@ I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seou
 - **Park, S-S.** How Individual Incentives Reconfigure Informal Knowledge Sharing: Evidence from Digital Trace Data.
   - Finalist for Best Paper Award (Strategic Human Capital IG) and nominated for Best Conference Paper Prize and Best PhD Paper Prize at the _SMS Annual Conference_ (2022)
 
-- **Park, S-S. **To Search or Satisfice: The Unintended Effects of Performance Incentives on Digital Knowledge Use.
+- **Park, S-S.** To Search or Satisfice: The Unintended Effects of Performance Incentives on Digital Knowledge Use.
 
 - Hahl, O. & **Park, S-S.** Who Strives When It Matters? Individual Professionalism and Effort After Crisis.
 
