@@ -32,24 +32,25 @@ I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seou
 ## Research
 
 **Peer-Reviewed Publications**
-- Park, S-S., Lee, S. & Hahl, O. (2025). Mitigating Ingroup Bias in Regulatory Firms: The Role of Inspector Professionalism. _Strategic Management Journal, 46_(8): 1829-2048.
+- **Park, S-S.**, Lee, S. & Hahl, O. (2025). Mitigating Ingroup Bias in Regulatory Firms: The Role of Inspector Professionalism. _Strategic Management Journal, 46_(8): 1829-2048.
   - Nominated for Best Conference Paper Prize and Best Research Methods Prize at the _SMS Annual Conference_ (2021)
 
-- Argote, L., Guo, J., Park, S-S., & Hahl, O. (2022). The Mechanisms and Components of Knowledge Transfer within Organizations. _Organization Science, 33_(3), 1232-1249. 
+- Argote, L., Guo, J., **Park, S-S.**, & Hahl, O. (2022). The Mechanisms and Components of Knowledge Transfer within Organizations. _Organization Science, 33_(3), 1232-1249. 
   
 **Working Papers** _(draft available upon request)_
-- How Individual Incentives Reconfigure Informal Knowledge Sharing: Evidence from Digital Trace Data.
+- **Park, S-S.** How Individual Incentives Reconfigure Informal Knowledge Sharing: Evidence from Digital Trace Data.
   - Finalist for Best Paper Award (Strategic Human Capital IG) and nominated for Best Conference Paper Prize and Best PhD Paper Prize at the _SMS Annual Conference_ (2022)
 
-- To Search or Satisfice: The Unintended Effects of Performance Incentives on Digital Knowledge Use.
+- **Park, S-S. **To Search or Satisfice: The Unintended Effects of Performance Incentives on Digital Knowledge Use.
 
-- Who Strives When It Matters? Individual Professionalism and Effort After Crisis. (_with Oliver Hahl_)
+- Hahl, O. & **Park, S-S.** Who Strives When It Matters? Individual Professionalism and Effort After Crisis.
 
 **Selected Work in Progress**
-- Incentives, Tenure, and the Dynamics of Information Search on Digital Systems
-- Gender Effects on Knowledge Sourcing through Digital Tools vs. Social Channels
-- Work Disruptions and the Dynamics of Intrafirm Knowledge Flows
+- Park, S-S. Incentives, Tenure, and the Dynamics of Information Search on Digital Systems.
+- Park, S-S. Gender Effects on Knowledge Sourcing through Digital Tools vs. Social Channels.
+- Park, S-S. Work Disruptions and the Dynamics of Intrafirm Knowledge Flows.
 
+_Equal contribution across all coauthored papers._
 ---
 
 ## Teaching
