@@ -53,6 +53,6 @@ I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seou
 
 ## Teaching
 
-**Univeristy of Toronto**
-- Rotman Commerce, RSM 392 (Strategic Management)
+**University of Toronto, Rotman Commerce**
+- RSM 392 (Strategic Management)
   - Fall 2023, Fall 2024, Fall 2025
