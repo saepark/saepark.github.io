@@ -48,6 +48,9 @@ I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seou
 **Selected Work in Progress**
 - Incentives, Tenure, and the Dynamics of Information Search on Digital Systems
 - Gender and Knowledge Acquisition through Digital Tools and Social Sources
+- Work Disruptions and the Dynamics of Intrafirm Knowledge Flows
+
+how work disruptions from the pandemic affect intra-organizational knowledge flows and performance outcomes by using digital trace data to track the evolution of knowledge networks over time.
 
 ---
 
