@@ -47,7 +47,6 @@ I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seou
 
 **Selected Work in Progress**
 - Incentives, Tenure, and the Dynamics of Information Search on Digital Systems.
-- Training vs Termination: How Men and Women Interpret Organizational Strategies in Response to Sexual Harrassment.
 - Gender Effects on Knowledge Sourcing through Digital Tools vs. Social Channels.
 - Work Disruptions and the Dynamics of Intrafirm Knowledge Flows.
 
