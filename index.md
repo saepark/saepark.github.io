@@ -58,4 +58,4 @@ _Equal contribution across all coauthored papers._
 
 **University of Toronto, Rotman Commerce**
 - RSM 392 (Strategic Management)
-  - Fall 2023, Fall 2024, Fall 2025
+  - Fall 2023, Fall 2024, Fall 2025, Fall 2026
