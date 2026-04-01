@@ -46,10 +46,10 @@ I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seou
 - Hahl, O. & **Park, S-S.** Who Strives When It Matters? Individual Professionalism and Effort After Crisis.
 
 **Selected Work in Progress**
-- Park, S-S. Incentives, Tenure, and the Dynamics of Information Search on Digital Systems.
-- Campbell, E.L. & Park, S-S. Training vs Termination: How Men and Women Interpret ORganizational Strategies in Response to Sexual Harrassment.
-- Park, S-S. Gender Effects on Knowledge Sourcing through Digital Tools vs. Social Channels.
-- Park, S-S. Work Disruptions and the Dynamics of Intrafirm Knowledge Flows.
+- Incentives, Tenure, and the Dynamics of Information Search on Digital Systems.
+- Training vs Termination: How Men and Women Interpret Organizational Strategies in Response to Sexual Harrassment.
+- Gender Effects on Knowledge Sourcing through Digital Tools vs. Social Channels.
+- Work Disruptions and the Dynamics of Intrafirm Knowledge Flows.
 
 _Equal contribution across all coauthored papers._
 
