@@ -8,4 +8,4 @@ I received my Ph.D. from Carnegie Mellon University and my M.S. and BBA degrees 
 
 To non-Korean speakers, I usually go by Sae (pronounced as "say".)
 
-[Home](./index.html) | [Research](./research.html) | [Teaching](./teaching.html) | [CV](./CV.html)  
+[Home](./index.md) | [Research](./research.md) | [Teaching](./teaching.html) | [CV](./CV.html)  
