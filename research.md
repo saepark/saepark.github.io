@@ -29,4 +29,4 @@ _Abstract: When an industry experiences a major failure, observers look to aggre
 - Organizational responses to sexual harassment scandals and gender differences in job application intentions.
 - Pay transparency legislation and firm differentiation in job posting design.
 
-[Home](./index.html) | [Research](./research.html) | [Teaching](./teaching.html) | [CV](./CV.html)  
+[Home](./index.md) | [Research](./research.md) | [Teaching](./teaching.md) | [CV](./CV.md)  
