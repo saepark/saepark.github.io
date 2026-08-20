@@ -27,35 +27,4 @@ I am an Assistant Professor of Strategic Management at the Rotman School of Mana
 
 I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seoul National University. To non-Korean speakers, I go by Sae (pronounced "say").
 
----
-
-## Research
-
-**Peer-Reviewed Publications**
-- **Park, S-S.**, Lee, S. & Hahl, O. (2025). Mitigating Ingroup Bias in Regulatory Firms: The Role of Inspector Professionalism. _Strategic Management Journal, 46_(8): 1829-2048.
-  - Nominated for Best Conference Paper Prize and Best Research Methods Prize at the _SMS Annual Conference_ (2021)
-
-- Argote, L., Guo, J., **Park, S-S.**, & Hahl, O. (2022). The Mechanisms and Components of Knowledge Transfer within Organizations. _Organization Science, 33_(3), 1232-1249. 
-  
-**Working Papers and Papers Under Review** _(draft available upon request)_
-- **Park, S-S.** How Individual Incentives Reshape Informal Knowledge Exchange. [_working title; masked for peer review_]
-  - Finalist for Best Paper Award (Strategic Human Capital IG) and nominated for Best Conference Paper Prize and Best PhD Paper Prize at the _SMS Annual Conference_ (2022)
-
-- **Park, S-S.** The Effects of Performance Incentives on Digital Knowledge Use. [_working title; masked for peer review_]
-
-- Hahl, O. & **Park, S-S.** Who Strives When It Matters? Individual Professionalism and Effort After Crisis.
-
-**Selected Work in Progress**
-- Incentives, Tenure, and the Dynamics of Information Search on Digital Systems.
-- Gender Effects on Knowledge Sourcing through Digital Tools vs. Social Channels.
-- Work Disruptions and the Dynamics of Intrafirm Knowledge Flows.
-
-_Equal contribution across all coauthored papers._
-
----
-
-## Teaching
-
-**University of Toronto, Rotman Commerce**
-- RSM 392 (Strategic Management)
-  - Fall 2023, Fall 2024, Fall 2025, Fall 2026
+[Home](./index.html) | [Research](./research.html) | [Teaching](./teaching.html) | [CV](./CV.html)  
