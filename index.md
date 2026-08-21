@@ -25,6 +25,6 @@ title: Sae-Seul Park
 
 I am an Assistant Professor of Strategic Management at the Rotman School of Management. I research strategic human capital and knowledge transfer through two interconnected streams. In one stream, I investigate how the interplay of incentives and individual differences in human capital shape organizational knowledge flows by influencing behaviors related to knowledge sharing, knowledge sourcing, and digital information systems use. In the second stream, I examine how the development and deployment of human capital affect organizational performance, investigating the influence of factors such as training and professionalization on frontline decision making that ultimately affects organizational performance. Across these projects, I leverage fine-grained digital trace data to construct unobstrusive behavioral measures that capture individual-level efforts and processes not visible through traditional outcome-based measures.
 
-I received my Ph.D. from Carnegie Mellon University, and my MA and BBA from Seoul National University. To non-Korean speakers, I go by Sae (pronounced "say").
+I received my Ph.D. from Carnegie Mellon University and my M.S. and BBA degrees from Seoul National University. I currently live in Toronto with my husband, [Kevin Mott](https://kevinpmott.com/), and our three cats. To non-Korean speakers, I usually go by Sae (pronounced as "say".)
 
 [Home](./index.md) | [Research](./research.md)
